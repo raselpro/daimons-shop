@@ -1,0 +1,22 @@
+.carosol{
+    margin-top: 20px;
+    margin-bottom: 80px;
+    
+}
+body{
+    background-color: orange;
+}
+.card-2{
+    border-radius: 10px;
+    margin-top: 70px;
+   margin-bottom: 20px;
+}
+.dp{
+    border: none;
+    height: 300px;
+
+    
+}
+.card-5{
+    margin-top: 50px;
+}
